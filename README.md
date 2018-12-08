@@ -1,0 +1,2 @@
+# SimpleCoreApp
+Simple Core App
